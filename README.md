@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction
-Breast cancer prediction project in Machine learning done to do classification of cancer type into malignant or benign.
+A breast cancer prediction project in Machine learning was done to classify cancer types into malignant or benign. Breast cancer dataset in CSV format, where the 'diagnosis' column represents the target variable (e.g., malignant or benign) and the remaining columns are the features (e.g., patient characteristics, clinical measurements, etc.). The dataset is split into training and testing sets using the train_test_split function from sklearn.model_selection module. Then different classification models are trained on this data and later seeing the performance of each model, the best model is selected from the list.
